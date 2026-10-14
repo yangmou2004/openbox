@@ -1,0 +1,8 @@
+{
+  "name": "openbox-tracker",
+  "version": "1.0.0",
+  "description": "舰船开箱记录与可视化工具",
+  "main": "./out/main/index.js",
+  "author": "yangjia",
+  "license": "ISC"
+}

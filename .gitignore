@@ -1,0 +1,20 @@
+# node依赖包，禁止上传
+node_modules/
+_tools/node_modules/
+
+# 编译输出产物
+out/
+_app_src/out/
+_audit_extracted/out/
+dist/
+build/
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 日志缓存
+*.log
+.DS_Store

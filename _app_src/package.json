@@ -1,0 +1,8 @@
+{
+  "name": "openbox-tracker",
+  "version": "1.1.0",
+  "description": "开箱记录（可视化界面）",
+  "main": "./out/main/index.js",
+  "author": "yangjia",
+  "license": "ISC"
+}
