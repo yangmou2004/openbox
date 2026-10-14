@@ -17,4 +17,4 @@ build/
 
 # 日志缓存
 *.log
-.DS_Store
+.DS_Store*.exe 
